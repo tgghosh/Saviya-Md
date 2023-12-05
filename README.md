@@ -1,11 +1,11 @@
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+Wa+.+Bot;Created+By+SAVIYA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+Wa+.+Bot;Created+By+𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️" alt="Typing SVG" /></a>
 </p> 
 
 <p align="center"> 
-<img src="https://telegra.ph/file/e7ff19ea6b6ee33f66936.jpg" width="390" height="300"/>
+<img src="https://i.imgur.com/INtcP8I.jpg" width="390" height="300"/>
 </p>
 
 
