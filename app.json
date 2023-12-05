@@ -1,14 +1,14 @@
 {
-  "name": "SAVIYA-MD by excel ",
+  "name": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️ ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/e7ff19ea6b6ee33f66936.jpg",
+  "logo": "https://i.imgur.com/INtcP8I.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","EWINGMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Vajira / Saviya"
+      "value": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94722617699"
+       "value": "917029916612"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@savigaming2009/SAVIYA-MD-BOT-QR"
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
-     "value": "SAVIYA"
+     "value": "𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
